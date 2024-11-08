@@ -78,17 +78,17 @@ python app.py
 ```
 This will run the home screen on localhost:5000.
 
- Financial Portfolio and Sentiment Analysis Dashboard (Port 5001)
+ Financial Portfolio and Sentiment Analysis Dashboard (Port 5001) (code available in FINANCE FOLDER)
 To start the backend application for financial data and sentiment analysis:
 ```bash
 python app.py
 ```
 This will run the backend on localhost:5001, but it will only be accessible after successful login on port 5000 as admin.
 
- Educational Performance Analysis Tool (Port 5001)
+ Educational Performance Analysis Tool (Port 5001) (code available in STUDENT FOLDER)
 To start the backend application for educational performance analysis:
 ```bash
-python app_education.py
+python app.py
 ```
 This will run the backend on localhost:5001, but it will only be accessible after successful login on port 5000 as admin.
 
